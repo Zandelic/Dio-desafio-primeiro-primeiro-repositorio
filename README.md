@@ -2,7 +2,7 @@
 
 
 
-- Projeto sobre Git/GitGHub:
+### Projeto sobre Git/GitGHub:
 
 
 - Lista de estudo:
