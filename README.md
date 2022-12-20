@@ -6,6 +6,7 @@
 
 
 - Lista de estudo:
+- 
 
 
 - Metas:
@@ -15,6 +16,9 @@
 
 
 - Anotações importantes:
+dotnet new console
+dotnet run
+Prop - propriedades class
 
 
 
