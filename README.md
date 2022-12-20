@@ -6,7 +6,6 @@
 
 
 - Lista de estudo:
-- 
 
 
 - Metas:
@@ -18,7 +17,8 @@
 - Anotações importantes:
 dotnet new console
 dotnet run
-Prop - propriedades class
-
+prop -propriedades de class
+string nome
+using ExemplosFundamentos.models;
 
 
